@@ -1,0 +1,54 @@
+@media only screen and (max-width: 320px) {
+    .container {
+    flex-direction: column;
+    }
+    
+    .column1 {
+    height: 60%;
+    }
+    
+    .column1-content {
+    left: 3%;
+    top: 3%;
+    font-size: 1.2rem;
+    }
+    
+    .column1-content h2 {
+    font-size: 1.8rem;
+    }
+    
+    .column1-content h3 {
+    font-size: 1.5rem;
+    }
+    
+    .column1-content p {
+    font-size: 1.2rem;
+    }
+    
+    .sub-column1-rate h1 {
+    font-size: 1.5rem;
+    }
+    
+    .sub-column1-per h2 {
+    font-size: 1.2rem;
+    }
+    
+    .sub-column1-para {
+    font-size: 1.2rem;
+    }
+    
+    .sub-column2-content {
+    font-size: 1.5rem;
+    }
+    
+    .sub-column2-para {
+    font-size: 1.2rem;
+    }
+    
+    nav button {
+    padding: 10px 100px;
+    font-size: 0.9rem;
+    left: 2%;
+    bottom: 4%;
+    }
+    }
